@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/yuqingzhijie/gulu#readme",
   "dependencies": {
-    "vue": "^2.5.16",
+    "parcel": "^1.9.7",
+    "vue": "^2.5.17",
     "vue-hot-reload-api": "^2.3.0"
   },
   "devDependencies": {
