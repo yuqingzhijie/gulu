@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrankFang/frank-test-1.git"
+    "url": "git+https://github.com/yuqingzhijie/gulu.git"
   },
   "keywords": [
     "vue",
     "ui"
   ],
-  "author": "frankfang",
+  "author": "yuqingzhijie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FrankFang/frank-test-1/issues"
+    "url": "https://github.com/yuqingzhijie/gulu/issues"
   },
-  "homepage": "https://github.com/FrankFang/frank-test-1#readme",
+  "homepage": "https://github.com/yuqingzhijie/gulu#readme",
   "dependencies": {
     "vue": "^2.5.16",
     "vue-hot-reload-api": "^2.3.0"
