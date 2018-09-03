@@ -20,12 +20,15 @@
     "url": "https://github.com/yuqingzhijie/gulu/issues"
   },
   "homepage": "https://github.com/yuqingzhijie/gulu#readme",
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  },
   "dependencies": {
-    "parcel": "^1.9.7",
     "vue": "^2.5.17",
     "vue-hot-reload-api": "^2.3.0"
   },
   "devDependencies": {
+    "parcel": "^1.9.7",
     "@vue/component-compiler-utils": "^2.2.0",
     "node-sass": "^4.9.3",
     "parcel-bundler": "^1.9.7",

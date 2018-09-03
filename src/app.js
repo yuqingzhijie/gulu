@@ -1,4 +1,4 @@
-import Vue from 'vue/dist/vue.js'
+import Vue from 'vue'
 import Button from './button'
 
 Vue.component('g-button', Button)
